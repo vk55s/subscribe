@@ -1,0 +1,5 @@
+proxies:
+  - {"name":"美国1|IEPL","type":"ss","server":"p.cm.xn--nly574e.biz","port":50901,"cipher":"chacha20-ietf-poly1305","password":"f203200f-f6a4-49d8-893e-6559804d79ae"}
+  - {"name":"美国2|IEPL","type":"ss","server":"p.cm.xn--nly574e.biz","port":50902,"cipher":"chacha20-ietf-poly1305","password":"f203200f-f6a4-49d8-893e-6559804d79ae"}
+  - {"name":"美国3|IEPL","type":"ss","server":"p.cm.xn--nly574e.biz","port":50903,"cipher":"chacha20-ietf-poly1305","password":"f203200f-f6a4-49d8-893e-6559804d79ae"}
+  - {"name":"美国4IEPL|ATT","type":"ss","server":"p.cm.xn--nly574e.biz","port":50904,"cipher":"chacha20-ietf-poly1305","password":"f203200f-f6a4-49d8-893e-6559804d79ae"}
