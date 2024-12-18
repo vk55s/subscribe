@@ -1,5 +1,22 @@
 proxies:
-  - {"name":"美国1|IEPL","type":"ss","server":"p.cm.xn--nly574e.biz","port":50901,"cipher":"chacha20-ietf-poly1305","password":"f203200f-f6a4-49d8-893e-6559804d79ae"}
-  - {"name":"美国2|IEPL","type":"ss","server":"p.cm.xn--nly574e.biz","port":50902,"cipher":"chacha20-ietf-poly1305","password":"f203200f-f6a4-49d8-893e-6559804d79ae"}
-  - {"name":"美国3|IEPL","type":"ss","server":"p.cm.xn--nly574e.biz","port":50903,"cipher":"chacha20-ietf-poly1305","password":"f203200f-f6a4-49d8-893e-6559804d79ae"}
-  - {"name":"美国4IEPL|ATT","type":"ss","server":"p.cm.xn--nly574e.biz","port":50904,"cipher":"chacha20-ietf-poly1305","password":"f203200f-f6a4-49d8-893e-6559804d79ae"}
+  - {"name":"🇭🇰 香港 | 01","type":"ss","server":"ccc.cm.xiaomi-api.xyz","port":12011,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇭🇰 香港 | 02","type":"ss","server":"ccc.ct.xiaomi-api.xyz","port":12012,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇭🇰香港 | 03 IEPL","type":"ss","server":"dnash-g05.hk02-ae5.entry.v50307shvkaa.art","port":14563,"cipher":"aes-256-gcm","password":"2c03e307-c46f-3923-8c32-13129edfe657"}
+  - {"name":"🇭🇰香港 | 04 IEPL","type":"ss","server":"7spm9-g05.hk03-ae5.entry.v50307shvkaa.art","port":763,"cipher":"aes-256-gcm","password":"2c03e307-c46f-3923-8c32-13129edfe657"}
+  - {"name":"🇹🇼 台湾 | 01","type":"ss","server":"ccc.cm.xiaomi-api.xyz","port":12021,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇹🇼 台湾 | 02","type":"ss","server":"ccc.ct.xiaomi-api.xyz","port":12022,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇸🇬 新加坡 | 01","type":"ss","server":"ccc.cm.xiaomi-api.xyz","port":12041,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇸🇬 新加坡 | 02","type":"ss","server":"ccc.ct.xiaomi-api.xyz","port":12042,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇯🇵 日本 | 01","type":"ss","server":"ccc.cm.xiaomi-api.xyz","port":12031,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇯🇵 日本 | 02","type":"ss","server":"ccc.ct.xiaomi-api.xyz","port":12032,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇯🇵 日本 | 03","type":"ss","server":"o6ax2-g05.jp12-ae5.entry.v50307shvkaa.art","port":501,"cipher":"aes-256-gcm","password":"2c03e307-c46f-3923-8c32-13129edfe657"}
+  - {"name":"🇰🇷 韩国 | 01","type":"ss","server":"ccc.cm.xiaomi-api.xyz","port":12051,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇰🇷 韩国 | 02","type":"ss","server":"ccc.ct.xiaomi-api.xyz","port":12052,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇰🇷 韩国 | 03","type":"ss","server":"ckfbl-g05.kr01-ae5.entry.v50307shvkaa.art","port":20043,"cipher":"aes-256-gcm","password":"2c03e307-c46f-3923-8c32-13129edfe657"}
+  - {"name":"🇺🇸 美国 | 01","type":"ss","server":"ccc.cm.xiaomi-api.xyz","port":12061,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇺🇸 美国 | 02","type":"ss","server":"ccc.ct.xiaomi-api.xyz","port":12062,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇺🇲 美国 | 03","type":"ss","server":"rok4r-g05.us01-ae5.entry.v50307shvkaa.art","port":20013,"cipher":"aes-256-gcm","password":"2c03e307-c46f-3923-8c32-13129edfe657"}
+  - {"name":"🇹🇷 土耳其 | 01","type":"ss","server":"ccc.cm.xiaomi-api.xyz","port":12082,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇮🇩 印度尼西亚 | 01","type":"ss","server":"ccc.cm.xiaomi-api.xyz","port":12081,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇮🇳 印度 | 01","type":"ss","server":"ccc.cm.xiaomi-api.xyz","port":12083,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
+  - {"name":"🇬🇧 英国 | 01","type":"ss","server":"ccc.cm.xiaomi-api.xyz","port":12091,"cipher":"aes-128-gcm","password":"b21ec5c1-c89c-41ba-9062-a66b6a6b229b"}
